@@ -56,13 +56,4 @@ I work at the intersection of:
 
 ---
 
-## Philosophy
-
-I value:
-
-- structured reasoning
-- reproducible experiments
-- performance trade-offs
-- clarity over noise
-
 This profile highlights selected work only.
