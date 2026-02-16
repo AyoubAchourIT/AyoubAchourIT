@@ -1,6 +1,6 @@
 # Ayoub Achour
 
-Engineering student (ISIMA) + Applied Math (UCA) building **LLM/RAG apps** and **production-minded ML systems**.
+Engineering CS student (ISIMA) + Applied Math (UCA) building **LLM/RAG apps** and **production-minded ML systems**.
 
 ## Featured
 - **RAG / LLM Apps** — demos, evaluation, and clean APIs
