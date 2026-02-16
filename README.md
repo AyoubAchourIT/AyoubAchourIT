@@ -1,6 +1,6 @@
 # Hi, I'm Ayoub
-MEng in Computer Science student (ISIMA - FRANCE)  
-MSc in Applied Mathematics & Statistics (UCA - FRANCE)
+MEng in Computer Science student (ISIMA - France)  
+MSc in Applied Mathematics & Statistics (UCA - France)
 
 I work at the intersection of:
 
