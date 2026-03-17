@@ -5,6 +5,7 @@ MSc in Applied Mathematics & Statistics (UCA - France)
 I work at the intersection of:
 
 - Machine Learning systems
+- Data Analytics
 - Mathematical modeling
 - Numerical computing
 - Performance-aware engineering
