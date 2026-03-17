@@ -8,7 +8,6 @@ I work at the intersection of:
 - Data Analytics
 - Mathematical modeling
 - Numerical computing
-- Performance-aware engineering
 
 ---
 
