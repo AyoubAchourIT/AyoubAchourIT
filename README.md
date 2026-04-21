@@ -4,36 +4,11 @@ MSc in Applied Mathematics & Statistics (UCA - France)
 
 I work at the intersection of:
 
-- Machine Learning systems
+- AI systems
+- Data Science
 - Data Analytics
 - Mathematical modeling
 - Numerical computing
-
----
-
-## Engineering Work
-
-### Data Systems & Applied ML
-
-- **Fraud Detection Pipeline** — end-to-end supervised ML workflow on 248k+ transactions, feature engineering, imbalance handling, benchmarking (RF / XGBoost / CatBoost), FastAPI inference service
-- **Sibyllium (Data Scientist)** — time-series forecasting components, structured multi-horizon evaluation, feature-driven modeling
-- **Time-Series Forecasting** — ARIMA / LSTM baselines with evaluation on trend and correlation metrics
-
----
-
-### Computational & Performance Projects
-
-- **CUDA Numerical Linear Algebra** — batched eigenvalue computation (Householder + QL), GPU/CPU performance trade-offs
-- **Parallel Computing** — OpenMP / performance reasoning / memory access patterns
-- **Numerical Simulation & Optimization** — structured implementations (ADMM, ISTA, FISTA)
-
----
-
-### Mathematical Modeling
-
-- **Survival Analysis** — Kaplan–Meier, Cox models, statistical interpretation
-- **Black–Scholes & Option Pricing** — stochastic modeling, Greeks, numerical comparisons
-- **Physics-Informed Neural Networks** — PDE-constrained learning via automatic differentiation
 
 ---
 
@@ -56,4 +31,3 @@ I work at the intersection of:
 
 ---
 
-This profile highlights selected work only.
